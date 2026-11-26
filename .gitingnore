@@ -1,0 +1,17 @@
+.venv/
+venv/
+envn/
+
+.envn
+.envn.local
+.envn.production
+
+__pycache__/
+*.pyc
+*.pyo
+dist/
+build/
+data/private/   
+.vscode/settings.json
+.idea/
+EOF
